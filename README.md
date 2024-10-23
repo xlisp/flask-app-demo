@@ -18,3 +18,11 @@ poetry run python app.py
 ```sh
 poetry run pytest
 ```
+
+* Run frontend
+
+```sh
+cd weather-frontend
+npm install
+npm run dev
+```
