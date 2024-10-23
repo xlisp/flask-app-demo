@@ -8,3 +8,7 @@ conda activate flask-app-demo
 poetry install
 ```
 
+* Run backend
+```sh
+poetry run python app.py
+```
