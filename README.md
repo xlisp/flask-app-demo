@@ -12,3 +12,9 @@ poetry install
 ```sh
 poetry run python app.py
 ```
+
+* Run pytest
+
+```sh
+poetry run pytest
+```
